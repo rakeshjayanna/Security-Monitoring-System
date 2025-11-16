@@ -5,6 +5,7 @@ The main idea is to track activity in AWS Secrets Manager and send an email aler
 I set it up for learning and testing purposes. After completing the project, I deleted the AWS resources to avoid charges.
 
 
+
 How It Works:
 
 1.Secrets Manager
